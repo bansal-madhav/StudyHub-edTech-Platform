@@ -1,1 +1,1 @@
-# StudyHub---edTech-Platform
+# StudyHub-edTech-Platform
